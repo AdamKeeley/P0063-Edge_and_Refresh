@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "P0063 - Edge Refresh", "P0063 - Edge Refresh\P0063 - Edge Refresh.dtproj", "{271FE9D0-D2E0-4B91-B0E3-0745320ADFE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271FE9D0-D2E0-4B91-B0E3-0745320ADFE7}.Development|Default.ActiveCfg = Development
+		{271FE9D0-D2E0-4B91-B0E3-0745320ADFE7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
